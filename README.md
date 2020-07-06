@@ -5,13 +5,13 @@
 ######How To Use:
 Windows : 
 
-*Open `CMD`
+* Open `CMD`
 
-*`set path=C:\wamp\bin\php\phpx.x`(PHP folder) - WAMP
+* `set path=C:\wamp\bin\php\phpx.x`(PHP folder) - WAMP
 
-*`set path=C:\xampp\php`
+* `set path=C:\xampp\php`
 
-*`set path=PATH` PHP Folder 
+* `set path=PATH` PHP Folder 
 
 Linux : 
 Example : `php detect.php -s -d google.com`
