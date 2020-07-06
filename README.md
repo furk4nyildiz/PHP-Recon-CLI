@@ -6,11 +6,8 @@
 Windows : 
 
 * Open `CMD`
-
 * `set path=C:\wamp\bin\php\phpx.x`(PHP folder) - WAMP
-
 * `set path=C:\xampp\php`
-
 * `set path=PATH` PHP Folder 
 
 Linux : 
