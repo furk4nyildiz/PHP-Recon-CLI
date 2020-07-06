@@ -2,9 +2,7 @@
 
 ## IP, Nameserver, HttpOnly, Server Info (Apache, IIS etc.), Get Parameters, CDN Bypass(History)
 
-###### How To Use:
-Windows : 
-
+###### How To Use On windows:
   * Open `CMD`
   * `set path=C:\wamp\bin\php\phpx.x`(PHP folder) - WAMP
   * `set path=C:\xampp\php`
