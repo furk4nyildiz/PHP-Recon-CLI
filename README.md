@@ -4,9 +4,13 @@
 
 ######How To Use:
 Windows : 
+
 *Open `CMD`
+
 *`set path=C:\wamp\bin\php\phpx.x`(PHP folder) - WAMP
+
 *`set path=C:\xampp\php`
+
 *`set path=PATH` PHP Folder 
 
 Linux : 
@@ -23,6 +27,5 @@ Example : `php detect.php -fr FILEPATH`
 -h : help
 
 -d : domain
-
  
 <a href="http://furkanyildiz.com/"><img src="http://furkanyildiz.com/githubgif/phpreconcli.gif"/></a>
