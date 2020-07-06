@@ -2,7 +2,7 @@
 
 ## IP, Nameserver, HttpOnly, Server Info (Apache, IIS etc.), Get Parameters, CDN Bypass(History)
 
-######How To Use:
+###### How To Use:
 Windows : 
 
 * Open `CMD`
